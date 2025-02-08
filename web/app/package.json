@@ -1,0 +1,19 @@
+{
+  "name": "guwat",
+  "version": "0.0.1",
+  "description": "Grown-up Web App Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexjplant/guwat.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/alexjplant/guwat/issues"
+  },
+  "homepage": "https://github.com/alexjplant/guwat#readme"
+}
